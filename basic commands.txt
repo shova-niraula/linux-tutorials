@@ -1,3 +1,5 @@
 cd -> 	for changing directory
 touch <filename> - > create a new filename
-mkdir <make directory> -> create a new directory
+mkdir <directory name> -> create a new directory
+rmdir <directory name> -> remove a directory.
+ 
