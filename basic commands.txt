@@ -1,0 +1,4 @@
+for changing directory:
+cd
+to create a file
+touch filename
