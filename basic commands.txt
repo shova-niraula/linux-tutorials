@@ -1,4 +1,3 @@
-for changing directory:
-cd
-to create a file
-touch filename
+cd -> 	for changing directory
+touch <filename> - > create a new filename
+mkdir <make directory> -> create a new directory
